@@ -10,7 +10,7 @@
 | 18/0102087  |  Ian Fillipe Pontes Ferreira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Programa que mostra o deslocamento de um táxi em uma cidade
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
