@@ -26,6 +26,14 @@ Posição inicial do táxi | Táxi pegando o passageiro | Táxi deixando o passa
 
 - Etapas para rodar o projeto:
 
+### **0. Executar o código pelo Google Colab:**
+
+Caso prefira, você pode optar por executar a aplicação pelo Google Colab, o que evita que todos as etapas seguintes precisem ser feitas.
+
+Acesse o projeto no Google Colab [aqui](https://colab.research.google.com/drive/1HrVbskwKHPJf0IRoSMOzGnSZdn_Y4Ee-?usp=sharing).
+
+Para rodar as células no Google Colab, basta clicar no ícone de 'play', que se encontra no lado esquerdo de cada célula.
+
 ### **1. Clonar o repositório:**
 
 ```python
