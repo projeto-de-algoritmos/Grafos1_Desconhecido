@@ -1,6 +1,6 @@
 # Trajeto Táxi
 
-**Número da Lista**: X<br>
+**Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos1<br>
 
 ## Alunos
