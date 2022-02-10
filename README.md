@@ -21,7 +21,9 @@ Posição inicial do táxi | Táxi pegando o passageiro | Táxi deixando o passa
 |  | ![imagem](imagens/taxi.gif) |
 
 ## Vídeo de Apresentação
-[Projeto_de_Algoritmos_Grafos1_Dupla17](https://youtu.be/Fg12FIaSET0)
+Link para o vídeo no Youtube: [Projeto_de_Algoritmos_Grafos1_Dupla17](https://youtu.be/Fg12FIaSET0)
+
+O vídeo também se encontra na pasta 'Video_Apresentacao'.
 
 ## Instalação 
 **Linguagem**: Python<br>
